@@ -32,6 +32,7 @@
       display: flex;
       justify-content: space-around;
       align-items: center;
+
   }
 
   .personalportfolio {
@@ -43,6 +44,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+    
   }
 
   .portfoliotext {
@@ -97,7 +99,16 @@
           justify-content: center;
           align-items: center;
           float: left;
+          border: 2px solid white;
+          width: 50px;
+          height: 50px;
+          border-radius: 45px;
+          margin-left: 10px;
+
+
+
       }
+
       .socialIcons {
           background-color: transparent;
           margin-top: 20px;
